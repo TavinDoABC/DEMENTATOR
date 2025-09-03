@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Política de Privacidade - DEMENTATOR StreamTool</title>
+</head>
+<body>
+<h1>Política de Privacidade - DEMENTATOR StreamTool</h1>
+<p><strong>Última atualização:</strong> Setembro 2025</p>
+
+<h2>Dados Coletados</h2>
+<p>Nossa extensão coleta e armazena localmente no seu navegador:</p>
+<ul>
+    <li>Configurações de velocidade e intervalo de mensagens</li>
+    <li>Mensagens personalizadas criadas por você</li>
+    <li>Contadores por canal do Twitch</li>
+    <li>Preferências de tema (claro/escuro)</li>
+</ul>
+
+<h2>Como Usamos os Dados</h2>
+<p>Todos os dados são armazenados apenas localmente no seu navegador para:</p>
+<ul>
+    <li>Manter suas configurações entre sessões</li>
+    <li>Personalizar a experiência de uso</li>
+    <li>Não compartilhamos dados com terceiros</li>
+</ul>
+
+<h2>Armazenamento</h2>
+<p>Os dados ficam apenas no seu computador, usando a API chrome.storage.local. 
+Podemos removê-los a qualquer momento desinstalando a extensão.</p>
+
+<h2>Contato</h2>
+<p>Para dúvidas: [seu-email@exemplo.com]</p>
+</body>
+</html>
