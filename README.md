@@ -29,6 +29,6 @@
 Podemos removê-los a qualquer momento desinstalando a extensão.</p>
 
 <h2>Contato</h2>
-<p>Para dúvidas: [seu-email@exemplo.com]</p>
+<p>Para dúvidas: [tavindoabc@gmail.com]</p>
 </body>
 </html>
