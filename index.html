@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
     <title>Política de Privacidade - DEMENTATOR StreamTool</title>
